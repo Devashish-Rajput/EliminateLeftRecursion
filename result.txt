@@ -1,0 +1,11 @@
+E : aATE' | F * TE'
+E' : TE' | epsilon
+A : aA'
+A' : TA' | epsilon
+T : F
+F : id
+
+E : aAT|ET|F * T
+A : AT|a
+T : F
+F : id

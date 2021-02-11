@@ -1,0 +1,4 @@
+E : aAT|ET|F * T
+A : AT|a
+T : F
+F : id
